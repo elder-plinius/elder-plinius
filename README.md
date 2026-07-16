@@ -20,15 +20,15 @@
 
 ## Featured Projects
 
-- **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)** — Jailbreaks and adversarial prompts for frontier models.
-- **[CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)** — System prompts, policies, tools, and control surfaces.
-- **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** — A multi-model interface for probing emergent behavior.
-- **[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** — An always-on multi-agent zero-day hunting organism.
+- **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)** — Jailbreaks, special tokens, and liberating prompts for frontier models.
+- **[CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)** — System prompts, policies, tools, and control surfaces made transparent.
+- **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** — A multi-model liberated AI chat interface.
+- **[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** — Automated offensive security fleet/zero-day hunting organism.
 - **[ST3GG](https://github.com/elder-plinius/ST3GG)** — Steganography and steganalysis across media.
 - **[P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3)** — Text mutation, translation, encoding, and decoding.
 - **[GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE)** — Xenolinguistic generation and analysis.
 - **[V3SP3R](https://github.com/elder-plinius/V3SP3R)** — An AI-powered hardware-hacking companion.
-- **[OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** — Refusal representation research for open models.
+- **[OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** — Refusal removal research for open models.
 
 <p align="center">
   <br>
