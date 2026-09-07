@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <code>{GODMODE:ENABLED}</code>
+  <code>{G0DM0D3:3N4BL3D}</code>
   <br>
   <code>⊰-•-•✧•-•-⦑/L\O/V\E/\P/L\I/N\Y/⦒-•-•✧•-•-⊱</code>
 </p>
