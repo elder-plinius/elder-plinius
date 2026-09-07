@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://time.com/collections/time100-ai-2025/7305870/pliny-the-liberator/"><strong>TIME100 AI · 2025</strong></a>
   <br><br>
-  <a href="https://huggingface.co/OBLITERATUS"><strong>OBLITERATUS</strong></a> · Top 100 Hugging Face org by followers
+  <a href="https://huggingface.co/OBLITERATUS"><strong>OBLITERATUS</strong></a> · Top 100 Hugging Face org
 </p>
 
 <p align="center">
