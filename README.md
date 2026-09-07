@@ -3,6 +3,7 @@
   <br>
   <sub> · GitRanks · </sub>
   <br>
+  <br>
   <a href="https://gitranks.com/profile/elder-plinius"><img src="https://gitranks.com/api/badge/v2/elder-plinius?ranking=s&amp;context=global&amp;type=position&amp;meta=none&amp;label=Global+Stars&amp;cornerStyle=rounded&amp;labelBgColor=%2321262d&amp;valueBgColor=%236d28d9" alt="Pliny’s global GitRanks position by total GitHub repository stars"></a>
   &nbsp;
   <a href="https://gitranks.com/profile/elder-plinius"><img src="https://gitranks.com/api/badge/v2/elder-plinius?ranking=f&amp;context=global&amp;type=position&amp;meta=none&amp;label=Global+Followers&amp;cornerStyle=rounded&amp;labelBgColor=%2321262d&amp;valueBgColor=%236d28d9" alt="Pliny’s global GitRanks position by GitHub followers"></a>
