@@ -16,13 +16,13 @@
 
 <p align="center">
   <sub>
-  <a href="https://pliny.gg"><img src="https://api.iconify.design/lucide/globe.svg?color=%238b5cf6" width="14" height="14" alt="" align="absmiddle">&nbsp;<strong>PLINY.GG</strong></a>
+  <a href="https://pliny.gg"><img src="https://avatars.githubusercontent.com/u/133052465?s=32&amp;v=4" width="14" height="14" alt="" align="absmiddle">&nbsp;<strong>PLINY.GG</strong></a>
   &nbsp;·&nbsp;
   <a href="https://huggingface.co/pliny-the-prompter"><img src="https://cdn.simpleicons.org/huggingface" width="14" height="14" alt="" align="absmiddle">&nbsp;HUGGING&nbsp;FACE</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/basi"><img src="https://cdn.simpleicons.org/discord" width="14" height="14" alt="" align="absmiddle">&nbsp;BASI</a>
   <br>
-  <a href="https://x.com/elder_plinius"><img src="https://cdn.simpleicons.org/x/181717/ffffff" width="14" height="14" alt="" align="absmiddle">&nbsp;X</a>
+  <a href="https://x.com/elder_plinius"><img src="https://cdn.simpleicons.org/x/8b949e" width="14" height="14" alt="" align="absmiddle">&nbsp;X</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@elder_plinius"><img src="https://cdn.simpleicons.org/youtube" width="14" height="14" alt="" align="absmiddle">&nbsp;YOUTUBE</a>
   &nbsp;·&nbsp;
