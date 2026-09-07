@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://gitranks.com/profile/elder-plinius"><strong>GitHub Global Top 100</strong></a>
-  <br>
-  <sub> · GitRanks · </sub>
+  <a href="https://gitranks.com/profile/elder-plinius"><strong>GitHub Top 100 All-Time</strong></a>
   <br>
   <a href="https://gitranks.com/profile/elder-plinius"><img src="https://gitranks.com/api/badge/v2/elder-plinius?ranking=s&amp;context=global&amp;type=position&amp;meta=none&amp;label=Global+Stars&amp;cornerStyle=rounded&amp;labelBgColor=%2321262d&amp;valueBgColor=%236d28d9" alt="Pliny’s global GitRanks position by total GitHub repository stars"></a>
   &nbsp;
