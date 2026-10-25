@@ -1,0 +1,106 @@
+<!doctype html>
+<!--
+THESIS: A portfolio should feel like entering a working studio, not scrolling a resume.
+OWN-WORLD: Ink-blue wall, chartreuse tape, cobalt artifacts, condensed grotesk type, and hairline drafting marks.
+STORY: A visitor sees the practice, meets the selected work, understands the point of view, and books a conversation.
+FIRST VIEWPORT: A full-height studio wall with the name oversized at left, a live “currently making” note at right, and the work reel beginning below.
+FORM: Experience-led portfolio; the studio-wall direction uses a vertical rail and alternating artifact compositions instead of a standard hero/cards layout.
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Mara Vale is an independent designer building expressive identities and digital systems." />
+    <title>Mara Vale — Independent Designer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="Mara Vale home">MV<span>®</span></a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#work">Selected work</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a class="availability" href="#contact"><span class="status-dot"></span>Available for select projects</a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-grid" aria-hidden="true"></div>
+        <div class="hero-copy">
+          <p class="location">Independent designer / New York + everywhere</p>
+          <h1 id="hero-title">Make <em>room</em><br />for the<br /><span>unusual.</span></h1>
+          <p class="hero-intro">I build identities, interfaces, and digital worlds for people making tomorrow feel a little closer.</p>
+          <a class="text-link" href="#work">See the work <span>↘</span></a>
+        </div>
+        <div class="hero-note">
+          <span class="note-label">Now / 01</span>
+          <div class="note-line"></div>
+          <p>Shaping the new visual language for <strong>Common Ground</strong>, a civic tech studio making cities more neighborly.</p>
+          <span class="note-date">Last updated — 09.2024</span>
+        </div>
+        <div class="hero-mark" aria-hidden="true">
+          <span>MV</span>
+          <span class="mark-ring"></span>
+          <span class="mark-cross"></span>
+        </div>
+        <div class="scroll-cue"><span>Scroll to explore</span><i></i></div>
+      </section>
+
+      <section class="work-section" id="work" aria-labelledby="work-title">
+        <div class="section-heading">
+          <p class="section-label">A selection / 2020—24</p>
+          <h2 id="work-title">Things I’ve<br /><i>helped happen.</i></h2>
+          <p class="section-summary">A few collaborations across culture, climate, and technology. Every project starts with a question worth keeping around.</p>
+        </div>
+        <div class="project-list">
+          <a class="project project-lime" href="#contact">
+            <div class="project-meta"><span>01 / Identity + digital</span><span>Climate / 2024</span></div>
+            <div class="project-art art-common" aria-hidden="true">
+              <span class="art-word">COMMON</span><span class="art-shape shape-a"></span><span class="art-shape shape-b"></span>
+            </div>
+            <div class="project-info"><h3>Common Ground</h3><p>A civic technology studio with a pulse.</p><span class="view-project">View project ↗</span></div>
+          </a>
+          <a class="project project-blue" href="#contact">
+            <div class="project-meta"><span>02 / Campaign + film</span><span>Culture / 2023</span></div>
+            <div class="project-art art-signal" aria-hidden="true">
+              <span class="signal-orbit orbit-one"></span><span class="signal-orbit orbit-two"></span><span class="signal-core">SIGNAL<br />/ / /</span>
+            </div>
+            <div class="project-info"><h3>Signal / Noise</h3><p>A festival for ideas that refuse to sit still.</p><span class="view-project">View project ↗</span></div>
+          </a>
+          <a class="project project-orange" href="#contact">
+            <div class="project-meta"><span>03 / Product + strategy</span><span>Technology / 2022</span></div>
+            <div class="project-art art-tide" aria-hidden="true"><span class="tide-line"></span><span class="tide-line line-two"></span><span class="tide-label">TIDE<br />POOL</span></div>
+            <div class="project-info"><h3>Tidepool</h3><p>Making the invisible life of data visible.</p><span class="view-project">View project ↗</span></div>
+          </a>
+        </div>
+      </section>
+
+      <section class="about-section" id="about" aria-labelledby="about-title">
+        <div class="about-stamp" aria-hidden="true"><span>EST.</span><strong>MV</strong><span>2017</span></div>
+        <div class="about-content">
+          <p class="section-label">A little context</p>
+          <h2 id="about-title">Good work leaves<br />a <i>strange</i> shape.</h2>
+          <p class="about-lead">I’m Mara, an independent designer and art director working where culture meets technology. I care about the small decisions that make a big idea feel inevitable.</p>
+          <div class="about-details">
+            <p>Currently independent.<br />Previously at Collins, Ueno,<br />and a small kitchen table.</p>
+            <p>Brand systems<br />Digital experiences<br />Creative direction<br />The good weird stuff</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact" aria-labelledby="contact-title">
+        <p class="section-label">Have a good question?</p>
+        <h2 id="contact-title">Let’s make<br /><i>something</i> of it.</h2>
+        <a class="contact-email" href="mailto:hello@maravale.studio">hello@maravale.studio <span>↗</span></a>
+        <div class="contact-footer"><span>© 2024 Mara Vale</span><span>Brooklyn, NY / UTC−5</span><a href="#top">Back to top ↑</a></div>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
